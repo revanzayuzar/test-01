@@ -1,0 +1,28 @@
+>> Deskripsi Program
+
+- Nama Program : Program Perulangan
+- Dibuat Oleh : M. Revanza Yuzar (Revan)
+- Bahasa Pemrograman : Python
+
+--------------------------------------------------
+
+>> Tujuan Program :
+
+Untuk mencari total perulangan yang diperlukan agar nilai awal dapat mencapai target nilai berdasarkan pertambahan nilai yang telah ditentukan.
+
+--------------------------------------------------
+
+# Program Perulangan
+# Python
+# Revanza Yuzar
+# Van Project
+# Pemrograman
+# Program Sederhana
+# Belajar
+# Pemula
+
+--------------------------------------------------
+Copyright© 2023 @revanzayuzar
+--------------------------------------------------
+
+...
